@@ -8,7 +8,7 @@ import React from 'react'
 const page = () => {
   return (
     <div className='w-full h-full flex justify-center items-center relative bg-black'>
-      <div className='max-w-[80vw] w-full h-full flex relative '>
+      <div className='max-w-[80vw] w-full h-full  flex relative '>
         <LeftSidebar/>
         <MainComponent/>
         <RightSectionBar/>
